@@ -5,7 +5,7 @@ package com.qf.controller;
  */
 public class A {
     public void test1(){
-        System.out.println("加了一个功能1...");
+        System.out.println("写了一个删除的功能...");
     }
 }
 
